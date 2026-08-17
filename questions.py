@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "anthropics/claude-agent-sdk-python"
-REPO_NAME = "claude-agent-sdk-python"
+SOURCE_REPO = "Shopify/shopify_app"
+REPO_NAME = "shopify_app"
 TREE = ""
 BRANCH = ""
 # Example:
