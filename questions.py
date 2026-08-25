@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "desktop/desktop"
-REPO_NAME = "desktop"
+SOURCE_REPO = "magpiexyz/contracts"
+REPO_NAME = "contracts"
 TREE = ""
 BRANCH = ""
 # Example:
