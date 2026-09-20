@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "sei-protocol/sei-chain"
-REPO_NAME = "sei-chain"
+SOURCE_REPO = "protocolbuffers/protobuf"
+REPO_NAME = "protobuf"
 TREE = ""
 BRANCH = ""
 # Example:
