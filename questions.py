@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "protocolbuffers/protobuf"
-REPO_NAME = "protobuf"
+SOURCE_REPO = "serai-dex/serai"
+REPO_NAME = "serai"
 TREE = ""
 BRANCH = ""
 # Example:
