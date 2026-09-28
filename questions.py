@@ -2,8 +2,8 @@ import json
 import os
 
 MAX_REPO = 25
-SOURCE_REPO = "serai-dex/serai"
-REPO_NAME = "serai"
+SOURCE_REPO = "rsksmart/powpeg-node"
+REPO_NAME = "powpeg-node"
 TREE = ""
 BRANCH = ""
 # Example:
